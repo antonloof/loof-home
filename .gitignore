@@ -1,3 +1,4 @@
 loof_home_venv/*
 .idea/*
 *.sqlite3
+.env
