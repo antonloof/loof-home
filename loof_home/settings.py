@@ -25,7 +25,7 @@ SECRET_KEY = '*6h(zzbukvmtvux4&04ka8y4qyg=k#f&@mdaxed#%o0uimb1g('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['loof-home.xn--lf-fkaa.tk']
+ALLOWED_HOSTS = ['loof-home.xn--lf-fkaa.tk', 'localhost']
 
 
 # Application definition

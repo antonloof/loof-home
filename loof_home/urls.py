@@ -16,7 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from loof_home import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-		path('mat/', include('mat.urls'))
+    path('mat/', include('mat.urls')),
+
+    path('', views.index)
 ]
