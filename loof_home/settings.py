@@ -26,7 +26,8 @@ SECRET_KEY = '*6h(zzbukvmtvux4&04ka8y4qyg=k#f&@mdaxed#%o0uimb1g('
 DEBUG = True
 
 ALLOWED_HOSTS = ['loof-home.xn--lf-fkaa.tk', 'localhost']
-
+STATIC_ROOT = '/var/www/loof_home/static/'
+STATIC_URL = '/static/'
 
 # Application definition
 
