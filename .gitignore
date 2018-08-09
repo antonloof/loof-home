@@ -1,7 +1,7 @@
 loof_home_venv/*
 .idea/*
 *.sqlite3
-<<<<<<< HEAD
 .env
 *.pyc
 static/admin/*
+*.pyc
