@@ -3,5 +3,5 @@ loof_home_venv/*
 *.sqlite3
 .env
 *.pyc
-static/admin/*
-*.pyc
+static/adminn/*
+static/rest_framework/*
